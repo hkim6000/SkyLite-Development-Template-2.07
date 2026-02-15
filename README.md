@@ -1,6 +1,6 @@
-<h2>Visual Studio Project Template for SkyLite Framework v 2.0.7.6</h2>
+<h2>Visual Studio Project Template for SkyLite Framework v 2.0.8.1</h2>
 
-02/06/2026
+02/15/2026
 
 This template, designed for Microsoft Visual Studio, provides the standard file and folder structure to get you started quickly.
 
